@@ -28,7 +28,7 @@ public:
         count=0;
     }
 };
-
+//main function
 int main()
 {
     Counter c1;
