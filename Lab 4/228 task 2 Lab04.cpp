@@ -2,6 +2,7 @@
 #include<math.h>
 using namespace std;
 
+
 class Rectangle
 {
 private:
@@ -61,6 +62,7 @@ public:
     }
 
 };
+
 
 int main()
 {
