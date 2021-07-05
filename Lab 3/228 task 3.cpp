@@ -43,7 +43,7 @@ public:
     }
 
 };
-
+//main function
 int main()
 {
     Medicine m1;
