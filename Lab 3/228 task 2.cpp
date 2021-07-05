@@ -54,6 +54,7 @@ public:
 
 };
 
+
 int main()
 {
     RationalNumber r1;
