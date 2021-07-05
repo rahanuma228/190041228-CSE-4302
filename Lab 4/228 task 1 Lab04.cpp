@@ -66,6 +66,8 @@ public:
         cout<<"Account of Mr."<<h_name<<"with account no "<<account_number<<" is destroyed with a balance BDT"<<current_balance<<endl;
     }
 };
+
+
 int main()
 {
     BankAccount b1;
