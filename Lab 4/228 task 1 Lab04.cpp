@@ -2,7 +2,6 @@
 #include<string.h>
 using namespace std;
 
-
 class BankAccount
 {
 public:
